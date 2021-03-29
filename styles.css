@@ -1,0 +1,109 @@
+body {
+  background-color: #d1e0e0;
+  color: #992600;
+}
+
+.bg-light {
+  background-color: #f2e6d9 !important;
+}
+.nav-item a {
+  font-size: 20px;
+  color: #992600 !important;
+}
+.logo img{
+  height: 30px;
+}
+.home-image img{
+  float: left;
+  width: 50%;
+  margin: 10px;
+}
+.intro {
+  display: flex;
+}
+.article {
+
+  margin: 10px;
+  padding: 10px;
+  background-color: #f2e6d9;
+}
+.options-menu {
+  background-color: #f2e6d9;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  height: 820px;
+  width: 250px;
+  float: left;
+}
+
+.intro-text {
+  margin: 10px;
+}
+
+.forum {
+  width: 50%;
+  margin: 10px;
+
+}
+.forum ul {
+  list-style-type: none;
+}
+.forum li {
+  padding: 5px;
+  background-color: white;
+  border: 1px solid black;
+}
+.images-grid {
+  display: grid;
+  grid-template: auto auto / 1fr 1fr 1fr;
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+  margin: 10px;
+}
+.images-image img {
+  width: 100%
+}
+
+h1 {
+  margin-left: 10px;
+}
+
+.info {
+  font-size: 20px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+.helpful-links li a{
+  font-size: 20px;
+  color: #992600;
+}
+.helpful-links li {
+  list-style-type: none;
+  text-align: left;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.options-menu h4 {
+  text-align: center;
+}
+.info img {
+  width: calc(100% - 270px);
+}
+.info {
+
+}
+
+h2 {
+  margin-left: 10px;
+}
+#Home_B_L img{
+  margin-top: 20px;
+  margin-right: 10px;
+  float: right;
+  width: 47%;
+}
